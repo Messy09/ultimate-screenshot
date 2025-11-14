@@ -1,0 +1,5 @@
+{
+  "default_device": "desktop",
+  "timeout_seconds": 10,
+  "output_path": "./data/outputs"
+}
