@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://example.com",
+    "type": "screenshot",
+    "device": "desktop",
+    "cookies": []
+  },
+  {
+    "url": "https://example.org",
+    "type": "video",
+    "device": "iphone",
+    "cookies": []
+  },
+  {
+    "url": "https://wikipedia.org",
+    "type": "pdf",
+    "device": "android",
+    "cookies": []
+  }
+]
